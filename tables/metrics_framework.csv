@@ -1,0 +1,28 @@
+Metric,Definition,Question Answered,Related Tuning
+DAU,Daily active users,How many users return daily?,Login rewards; daily tasks; event entry
+New Users,New users entering the game,Is acquisition bringing users?,UA channel; onboarding; first session
+D1 Retention,New users active on next day,Is early experience smooth?,Tutorial; first rewards; early difficulty
+D7 Retention,New users active on day 7,Is weekly habit forming?,7-day login; weekly events; pass
+D30 Retention,New users active on day 30,Is there long-term motivation?,Long-term progression; pass; VIP
+Active Days,Active days within a period,Are users returning consistently?,Daily tasks; streaks; event rhythm
+Session Count,Gameplay sessions per user,Is core gameplay engaging?,Round duration; reward density
+Session Length,Average play duration,Is gameplay sustaining attention?,Pacing; fatigue; reward feedback
+Resource Gap,Desired resource minus current resource,Is resource pressure reasonable?,Coin output; consumption; pack trigger
+Resource Consumption Rate,Consumed resources / earned resources,Is the economy balanced?,Drop rate; event cost; multiplier
+Bankruptcy Rate,Users below minimum entry requirement,Are users blocked from playing?,Bankruptcy protection; low-tier rooms
+Ad Watch Rate,Users watching ads / ad-exposed users,Do F2P users accept ad supply?,Ad placement; reward value
+Ad Completion Rate,Completed ads / started ads,Are ad placements acceptable?,Ad length; frequency; timing
+Payer Rate,Paying users / active users,Is monetization converting?,First purchase; bundles; shortage
+First Purchase Rate,First-time payers / new users,Is payment barrier low enough?,Starter pack; payment timing
+ARPU,Revenue / active users,How much revenue per active user?,IAP and ads balance
+ARPPU,Revenue / paying users,How much revenue per payer?,Mid/high-tier packs; recharge
+ARPDAU,Daily revenue / DAU,Daily monetization efficiency,Events; ads; daily packs
+LTV,Lifetime revenue per user,Can user value cover acquisition cost?,Retention; monetization; ad revenue
+ROAS,Revenue generated / ad spend,Is user acquisition profitable?,UA targeting; LTV; payback
+Bundle Exposure Rate,Users seeing bundle / active users,Are bundles visible enough?,Popup frequency; store entry
+Bundle CTR,Bundle clicks / bundle exposures,Is bundle content attractive?,Copy; visual; value clarity
+Bundle Conversion Rate,Purchases / exposures or clicks,Is bundle value and timing effective?,Pricing; content; trigger
+Event Participation Rate,Event users / active users,Is event attractive?,Entry; rules; reward
+Event Completion Rate,Completed users / participants,Is event difficulty reasonable?,Target values; reward tiers
+Event Payment Rate,Paying users in event / participants,Does event drive payment?,Event packs; token gap
+Churn Rate,Users not returning in period,Which design causes exit?,Resource pressure; fatigue; payment pressure

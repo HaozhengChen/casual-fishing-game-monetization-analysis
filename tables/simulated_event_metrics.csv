@@ -1,0 +1,11 @@
+Metric,Before Event,During Event,Change,Interpretation
+DAU,100000,108000,8%,Limited-time activity increased daily activity
+Event Participation Rate,N/A,62%,High,Event entry and rewards were attractive
+Payer Rate,3.20%,4.10%,+0.9 pct,Resource shortage and event goals increased payment conversion
+ARPU,0.85 CNY,1.08 CNY,27%,Revenue per active user increased during the event
+ARPPU,26.5 CNY,26.3 CNY,Flat,More users paid but mainly through lower-price purchases
+D1 Retention,34%,30%,-4 pct,Event pressure may have hurt next-day return
+F2P Bankruptcy Rate,18%,31%,+13 pct,Free users consumed resources too quickly
+Mid-spender Event Completion,N/A,42%,Low,Event goals may have been too demanding for mid spenders
+Event Bundle Conversion,N/A,6.50%,Medium,Event packs converted some users but not enough to offset pressure
+Ad Watch Rate,22%,35%,+13 pct,More users sought free resource recovery

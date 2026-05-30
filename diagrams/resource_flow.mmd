@@ -1,0 +1,13 @@
+flowchart TD
+	A["User Analysis"] --> B{"Paid in last 7 days?"}
+	B -- "No" --> C{"Watched rewarded ads?"}
+	C -- "No" --> D["F2P User"]
+	C -- "Yes" --> E["Ad User"]
+	B -- "Yes" --> F{"Payment Amount"}
+	F -- "Low" --> G["Low Spender"]
+	F -- "Medium" --> H["Mid Spender"]
+	F -- "High" --> I["Heavy Spender"]
+	A --> J{"Activity decreasing?"}
+	J -- "Yes" --> K["Churn-risk User"]
+	A --> L{"Returned after inactivity?"}
+	L -- "Yes" --> M["Returning User"]

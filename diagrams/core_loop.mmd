@@ -1,0 +1,20 @@
+flowchart TD
+	A["Enter Game"] --> B["Claim Login / Offline Rewards"]
+	B --> C["Choose Room / Mode / Event"]
+	C --> D["Start Gameplay"]
+	D --> E["Consume Coins / Ammo / Stamina / Tickets"]
+	E --> F["Catch Fish / Defeat Boss / Complete Objective"]
+	F --> G["Receive Coins / Items / Event Tokens"]
+	G --> H["Complete Tasks / Achievements / Pass Missions"]
+	H --> I["Enter Event / Ranking / Boss Challenge"]
+	I --> J{"Enough Resources?"}
+	J -- "Yes" --> C
+	J -- "No" --> K["Resource Shortage Trigger"]
+	K --> L{"Supplement Path"}
+	L -- "Rewarded Ads" --> M["Watch Ads for Resources"]
+	L -- "Paid Bundle" --> N["Buy Starter / Daily / Bankruptcy / Event Pack"]
+	L -- "Recharge" --> O["Hard Currency / VIP / Recharge Rewards"]
+	M --> C
+	N --> C
+	O --> C
+	J -- "Too Much Pressure" --> P["Exit / Churn Risk"]

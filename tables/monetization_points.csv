@@ -1,0 +1,12 @@
+Monetization Point,Trigger,Target User,Motivation,KPI Impact,Risk
+Starter Pack,After tutorial; first shortage; first login,New users; potential low spenders,Low-risk first payment,First payer conversion; D1 retention,Too early popup interrupts onboarding
+First Purchase,Store entry; first session end; shortage,Non-paying users,High value; payment breakthrough,Payer rate; first purchase rate,Overpowered reward creates pressure
+Daily Pack,Daily login; task page; store,Active users; low spenders,Routine resource supplement,Payment frequency; ARPDAU,Repetitive content reduces interest
+Weekly / Monthly Pack,Weekly refresh; event start,Mid-low payers; long-term users,Planned resource purchase,ARPPU; payer retention,Weak feedback if cycle is too long
+Limited-time Pack,Boss failure; near milestone; event shortage,Impulse payers; mid payers,FOMO and loss aversion,Short-term revenue; event payment,May feel forced if over-triggered
+Bankruptcy Pack,Coins below minimum entry,F2P; low spenders; mid spenders,Continue playing immediately,Shortage conversion; churn reduction,Frequent bankruptcy damages trust
+Battle Pass,New cycle; pass reward preview,Active users; mid-low payers,Long-term goal and value,D7 / D30 retention; stable payment,Too grindy lowers completion
+Event Pack,Event page; token shortage; ranking push,Event participants; mid-high payers,Limited reward and progress boost,Event ARPU; event depth,Can make activity feel paywalled
+Cumulative Recharge,Event period; recharge milestone,Mid-high and heavy payers,Goal chasing and sunk cost,ARPPU; high-value payment,Too frequent rebates train discount waiting
+Recharge Rebate,Festival; update; return event,Mid-high payers; returning users,Time-limited value,Short-term revenue; returning payment,Frequent rebate weakens regular pricing
+Rewarded Ads,Resource shortage; reward doubling; free draw,F2P; ad users,Free resource recovery,Ad revenue; F2P retention,Too strong rewards weaken IAP

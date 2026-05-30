@@ -1,0 +1,8 @@
+Segment,Behavior,Systems of Interest,Operation Strategy,Triggered Offers / Events,Metrics
+F2P,Does not pay; relies on free rewards,Login; daily tasks; rewarded ads; low-entry events,Ensure basic playability and reduce early pressure,Free pack; ad reward; 7-day login,D1 / D7 retention; coin gap; churn
+Ad User,Watches ads for resources,Rewarded video; reward doubling; revival,Improve ad value while limiting fatigue,Ad chest; ad task; free draw,Ad watch rate; completion rate; ad ARPDAU
+Low Spender,Buys low-price packs occasionally,First purchase; daily pack; bankruptcy pack,Provide clear value and low-friction payment,Starter pack; daily pack; low pass tier,First purchase rate; repeat purchase
+Mid Spender,Pays during events and pass cycles,Battle pass; weekly pack; event pack,Provide achievable event goals,Weekly pack; event milestone pack,ARPPU; event completion; payer retention
+Heavy Spender,Pays frequently; competes for ranking,VIP; cumulative recharge; ranking; rare cosmetics,Provide status; competition; rare rewards,High-tier recharge; ranking push pack,High payer retention; VIP distribution
+Returning User,Comes back after inactivity,Return tasks; catch-up rewards,Reduce return friction and rebuild habit,Return pack; 7-day return mission,Return rate; return D1 / D7 retention
+Churn-risk User,Activity decline; repeated shortage; failed tasks,Bankruptcy protection; easy tasks; recovery rewards,Reduce frustration and offer short-term goals,Recovery pack; free supply; low-pressure event,Activity decline; exit point; shortage frequency
