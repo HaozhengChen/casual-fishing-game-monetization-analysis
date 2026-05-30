@@ -1,7 +1,5 @@
 # Casual / Fishing Game Monetization System Teardown
 
-中文标题：休闲 / 捕鱼游戏商业化系统拆解｜货币、礼包、活动与用户分层
-
 ## Project Overview
 
 This is a portfolio analysis project focused on the monetization, resource economy, live-ops structure, and user segmentation of a typical casual / fishing-style mobile game.
@@ -9,6 +7,32 @@ This is a portfolio analysis project focused on the monetization, resource econo
 The project does not analyze one specific product. Instead, it builds a representative model based on publicly observable gameplay patterns, common casual game monetization systems, and simulated example data.
 
 No internal company data is used in this project. All metrics, user segments, and case data are simulated for analytical demonstration.
+
+## Visual Highlights
+
+### 1. Simulated Event KPI Change
+
+![Simulated Event KPI Change](./images/event_kpi_change.png)
+
+This chart compares key metrics before and during the simulated limited-time event. The event improved DAU, payer conversion, and ARPU, but also reduced D1 retention and increased F2P bankruptcy rate.
+
+### 2. User Segment Monetization Map
+
+![User Segment Monetization Map](./images/user_segment_map.png)
+
+This map summarizes how different player segments respond to monetization pressure, rewarded ads, resource shortage, and live-ops events.
+
+### 3. Resource Pressure Diagnosis
+
+![Resource Pressure Diagnosis](./images/resource_pressure_diagnosis.png)
+
+This chart highlights the core design risk of the simulated event: monetization pressure increased, but free-player resource exhaustion and mid-spender completion difficulty also increased.
+
+### 4. 30-Day LiveOps Calendar Overview
+
+![30-Day LiveOps Calendar Overview](./images/liveops_calendar_overview.png)
+
+This timeline shows how onboarding, daily tasks, battle pass, ranking events, recharge events, return events, and month-end sprint activities can be arranged across a 30-day cycle.
 
 ## Target Role Relevance
 
@@ -63,6 +87,7 @@ flowchart LR
 | `case_study/limited_time_event_analysis.md` | Detailed event diagnosis and tuning plan |
 | `diagrams/` | Mermaid diagram source files |
 | `tables/` | Structured analysis tables and simulated data |
+| `images/` | Final visual outputs for README presentation |
 
 
 ## Data Disclaimer
